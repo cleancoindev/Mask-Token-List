@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@uniswap/token-lists": "^1.0.0-beta.16",
-    "ajv": "^6.12.5",
+    "ajv": "^6.12.6",
     "eth-contract-metadata": "^1.15.0",
     "wallet.ts": "^1.0.1"
   },
